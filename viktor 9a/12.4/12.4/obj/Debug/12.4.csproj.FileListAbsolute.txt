@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\bin\Debug\12.4.exe.config
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\bin\Debug\12.4.exe
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\bin\Debug\12.4.pdb
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\obj\Debug\12.4.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\obj\Debug\12.4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\obj\Debug\12.4.exe
+C:\Users\STUDENTS-1409-13\Desktop\12A\12.4\12.4\obj\Debug\12.4.pdb

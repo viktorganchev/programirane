@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\bin\Debug\hora.exe.config
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\bin\Debug\hora.exe
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\bin\Debug\hora.pdb
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\obj\Debug\hora.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\obj\Debug\hora.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\obj\Debug\hora.exe
+C:\Users\STUDENTS-1409-13\Desktop\12A\hora\hora\obj\Debug\hora.pdb
